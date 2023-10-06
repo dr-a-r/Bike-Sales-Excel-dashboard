@@ -18,7 +18,7 @@ Dash Board Project of Bike sales using MS Excel.
 - Numerical Processing
 	- Currency
 	- Date
-	- 
+	
 ## Step 4 
 - Text Processing
 	- Casing
